@@ -1,4 +1,6 @@
 #include "tokens.hpp"
+#include <cstdio>
+#include <string>
 
 static const char* dict[] = {"NOT_GOOD",
                              "VOID",

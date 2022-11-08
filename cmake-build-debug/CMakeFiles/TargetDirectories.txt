@@ -1,0 +1,3 @@
+/Users/mor/technion/semester 5/copmi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mor/technion/semester 5/copmi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mor/technion/semester 5/copmi/cmake-build-debug/CMakeFiles/copmi.dir

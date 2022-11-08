@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include "tokens.hpp"
 
+static const int MAX_STR_LEN = 1024;
 %}
 
 %option yylineno

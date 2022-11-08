@@ -33,8 +33,10 @@ enum tokentype
     NUM = 28,
     STRING = 29
 };
+
 extern int yylineno;
 extern char* yytext;
-extern int yyleng;
+extern unsigned long yyleng;
 extern int yylex();
+
 #endif /* TOKENS_HPP_ */
